@@ -9,4 +9,5 @@ java -version
 master:update
  hot-fix
 hot-fix:update
+github：update first
 
