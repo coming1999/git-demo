@@ -6,5 +6,6 @@ hello git!
 hello git!
 hello git!
 java -version
+hot-fix:merge test second
 hot-fix:update
 hot -fix merge test
